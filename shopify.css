@@ -1,0 +1,35 @@
+html
+{
+     overflow-y: scroll;
+}
+body
+{
+     margin-top:5%;
+
+}
+.carousel .item {
+     height: 500px;
+
+   }
+   
+   .item img {
+       position: absolute;
+       width: fit-content;
+       top: 0;
+       left: 0;
+       min-height: 500px;
+   }
+    .img-thumbnail
+   {
+     
+    
+    position:relative;
+    width: fit-content;
+    top: 0;
+    left: 0;
+    bottom: 0;
+  
+     
+     
+
+   }
