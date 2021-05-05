@@ -1,4 +1,4 @@
-# Shopify-Bootstrep-Ecommerce-templet
+# Shopify-Bootstrap-Ecommerce-templet
 Basic e-commerce template using Bootstrap
 
 Sample Images:
